@@ -1,7 +1,7 @@
 package com.company;
 import  java.util.Scanner;
 import java.util.stream.IntStream;
-public class TenTask {
+public class Task_03 {
     public static void main(String[] args) {
         //fizzBuzzBeforeJava8(10);
         fizzBuzzAfter8(36);

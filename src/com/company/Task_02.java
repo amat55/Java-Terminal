@@ -1,6 +1,6 @@
 package com.company;
 import java.util.Scanner;
-public class SecondTask {
+public class Task_02 {
     public static void main(String[] args) {
         Scanner imp=new Scanner(System.in);
         int firstNum,secondNum,thirdNum;

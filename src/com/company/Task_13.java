@@ -1,6 +1,6 @@
 package com.company;
 
-public class FifteenTask {
+public class Task_13 {
     //Udemy challenge :)
     public static void main(String[] args) {
     printMegaBytesAndKiloBytes(5);

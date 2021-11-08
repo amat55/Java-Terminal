@@ -1,6 +1,6 @@
 package com.company;
 
-public class thirteenTask {
+public class Task_18 {
     public static void main(String args[]) {
         System.out.println(isPalindromString("anna"));
         System.out.println(isPalindromString("Kayak"));

@@ -1,6 +1,6 @@
 package com.company;
 import java.util.Scanner;
-public class NineTask {
+public class Task_09 {
     public static void main(String[] args) {
         Scanner imp=new Scanner(System.in);
         System.out.println("Please write Positive number");

@@ -1,6 +1,6 @@
 package com.company;
 //import java.util.Scanner;
-public class FourteenTask {
+public class Task_11 {
     public static void main(String[] args) {
         //Scanner imp=new Scanner(System.in);
         //Udemy challenge :)

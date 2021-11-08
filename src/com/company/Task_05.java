@@ -1,6 +1,6 @@
 package com.company;
 import java.util.Scanner;
-public class sixthTask {
+public class Task_05 {
     public static void main(String[] args) {
         Scanner imp=new Scanner(System.in);
         int n=5,j=0,evensum=0;

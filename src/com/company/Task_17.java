@@ -2,7 +2,7 @@ package com.company;
 
 import java.util.Scanner;
 
-public class twelveTask {
+public class Task_17 {
     public static void main(String args[]) {
         Scanner scn = new Scanner(System.in);
         System.out.println("Please indicate the number of rows: ");

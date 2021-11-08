@@ -1,6 +1,6 @@
 package com.company;
 import java.util.Scanner;
-public class EightTask {
+public class Task_15 {
     public static void main(String[] args) {
         Scanner imp=new Scanner(System.in);
         int integer,odd=0,even=0;

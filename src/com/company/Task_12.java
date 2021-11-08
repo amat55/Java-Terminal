@@ -1,6 +1,6 @@
 package com.company;
 import java.util.Scanner;
-public class fifthTask {
+public class Task_12 {
     public static void main(String[] args) {
         Scanner imp=new Scanner(System.in);
         System.out.println("Please write character");

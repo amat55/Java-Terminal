@@ -1,6 +1,6 @@
 package com.company;
 
-public class ElevenTask {
+public class Task_14 {
     public static void main(String[] args) {
         int n = 5;
         System.out.println(fibonacci(n));

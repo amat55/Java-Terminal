@@ -1,6 +1,6 @@
 package com.company;
 import java.util.Scanner;
-public class SevenTask {
+public class Task_08 {
     public static void main(String[] args) {
      Scanner imp=new Scanner(System.in);
      int i,fact=1;
