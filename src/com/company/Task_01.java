@@ -1,6 +1,6 @@
 package com.company;
 import java.util.Scanner;
-public class Main_01 {
+public class Task_01 {
     public static void main(String[] args) {
         int number = 60;
         System.out.print("Factors of " + number + " are: ");
