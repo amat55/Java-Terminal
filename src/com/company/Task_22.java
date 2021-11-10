@@ -2,8 +2,18 @@ package com.company;
 
 public class Task_22 {
     public static void main(String[] args) {
-        int[] a =new int[3];
-        System.out.println(a);
-
+        //Udemy Challenge
+        int count=0,sum=0;
+       for (int i=1;i<=1000;i++){
+           if((i % 3==0)&&(i%5==0)){
+               count++;
+               sum+=i;
+               System.out.println("Numbers: "+i);
+           }
+           if(count==5){
+               break;
+           }
+       }
+        System.out.println("Sum= "+sum);
     }
 }

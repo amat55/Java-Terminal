@@ -1,7 +1,6 @@
 package com.company;
 
 public class Task_21 {
-    //I'll finish tomorrow :)
     //Udemy Challenge
     public static void main(String[] args) {
         //isLeapYear(-99);
