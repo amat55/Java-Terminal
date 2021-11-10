@@ -1,3 +1,3 @@
 # Java-Terminal
 Java Console exercises
-University exercises and more:)
+University exercises , Challenges and my projects :)
