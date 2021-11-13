@@ -1,14 +1,23 @@
 package com.company;
 
-public class Task_30 {
-    //Udemy Challenge, I'll finish later
-    public static void main(String[] args) {
+import java.util.Scanner;
 
-    }
-    public static boolean hasSameLastDigit(int number_1 , int number_2 , int number_3){
-        return false;
-    }
-    public static boolean isValid(int number_1){
-        return true;
+public class Task_30 {
+
+    public static void main(String[] args) {
+        Scanner in = new Scanner(System.in);
+        int t = in.nextInt();
+        for (int i = 0; i < t; i++) {
+            int a = in.nextInt();
+            int b = in.nextInt();
+            int n = in.nextInt();
+            int c = a;
+            for (int j = 0; j < n; j++) {
+                c += Math.pow(2, j) * b;
+                System.out.printf("%s ", c);
+            }
+            System.out.println();
+        }
+        in.close();
     }
 }
