@@ -4,7 +4,7 @@ public class Task_65_2 {
 
     private String firstName;
     private String lastName;
-    private int age;
+    private int age = 0;
 
     public String getFirstName() {
         return firstName;
